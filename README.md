@@ -61,8 +61,8 @@ docker compose up --build
 ```
 
 The application will be available at:
-- Frontend: `http://localhost:3000` (or your configured `CLIENT_PORT`)
-- Backend: `http://localhost:3001` (or your configured `BACKEND_PORT`)
+- Frontend: [http://localhost:3000](http://localhost:3000) (or your configured `CLIENT_PORT`)
+- Backend: [http://localhost:3001](http://localhost:3001) (or your configured `BACKEND_PORT`)
 
 To stop the containers:
 ```bash
